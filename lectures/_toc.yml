@@ -1,8 +1,7 @@
 # Learn more at: https://jupyterbook.org/customize/toc.html
 format: jb-book
-root: index
+root: 01_getting_started.ipynb
 chapters:
-- file: 01_getting_started.ipynb
 - file: 02_urnc_usage.ipynb
 - file: 03_creating_courses.ipynb
 - file: 04_getting_help.ipynb
