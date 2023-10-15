@@ -10,7 +10,10 @@ public/
 student/
 tmp/
 website/
+assignments/example.ipynb
 container/
-.gitlab-ci.yml
+lectures/_config.yml
+lectures/_toc.yml
+scripts
 config.yaml
 README.md
