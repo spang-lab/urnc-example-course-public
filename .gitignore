@@ -10,7 +10,9 @@ public/
 student/
 tmp/
 website/
-assignments/example.ipynb
+assignments/*
+!assignments/01*.ipynb
+!assignments/02*.ipynb
 container/
 lectures/_config.yml
 lectures/_toc.yml
